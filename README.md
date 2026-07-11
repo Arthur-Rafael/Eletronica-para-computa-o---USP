@@ -104,3 +104,34 @@ void loop() {
 }
 ```
 
+## Explicação do uso dos componentes
+
+###Placa Arduino Uno R3O
+A placa Arduino Uno R3O é o "cérebro" ou o microcontrolador do projeto. Ele processa as informações e toma as decisões.
+
+Função no projeto: Ele roda o código escrito. O Arduino lê os dados de distância enviados pelo sensor ultrassônico, calcula se há um objeto perto ou longe e envia ordens para ligar ou desligar os LEDs corretos nos pinos digitais (3, 4 e 5).
+
+###Sensor Ultrassônico (HC-SR04)
+Mede a distância entre ele e um objeto usando ondas sonoras de alta frequência.
+
+Função no projeto: Ele atua como o "olho" do semáforo. O pino TRIG (Gatilho) dispara o som, o som bate em um obstáculo (como um carro se aproximando) e volta. O pino ECHO (Eco) recebe esse som de volta. O Arduino mede esse tempo e calcula a distância para decidir se o semáforo deve mudar de cor.
+
+###LEDs (Diodos Emissores de Luz)
+São componentes semicondutores que emitem luz visível quando uma corrente elétrica passa por eles. Eles possuem polaridade, ou seja, a corrente só flui do terminal positivo (Anodo) para o negativo (Catodo).
+
+Função no projeto: São os indicadores visuais do trânsito (Vermelho, Amarelo e Verde). Eles mudam de estado de acordo com a distância calculada pelo sensor para simular o controle de tráfego de uma rua.
+
+###Resistores
+Como o próprio nome diz, eles oferecem "resistência" à passagem da corrente elétrica, limitando a quantidade de energia que passa pelo circuito.
+
+Função no projeto: Proteção. Os pinos do Arduino fornecem uma corrente elétrica que pode ser forte demais para os LEDs. Os resistores ficam no caminho da energia para diminuir essa corrente, impedindo que os seus LEDs queimem ou que a placa do Arduino seja danificada por sobrecarga.
+
+###Protoboard (Placa de Ensaio)
+É uma placa cheia de furos com conexões de metal internas que permitem conectar componentes eletrônicos uns aos outros sem a necessidade de solda.
+
+Função no projeto: Serve como a base física para montar o seu circuito. Ela conecta as trilhas de energia positivo (5V) e negativo (GND) do Arduino para o sensor e os resistores de forma organizada.
+
+###Jumpers (Fios de Conexão)
+São fios condutores elétricos encapados com plástico de proteção nas pontas.
+
+Função no projeto: São as "veias" do circuito. Eles transportam os sinais elétricos e de dados de um ponto a outro — como levar o sinal de comando do pino digital do Arduino até o LED correspondente na protoboard.
