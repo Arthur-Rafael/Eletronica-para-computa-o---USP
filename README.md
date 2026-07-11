@@ -30,7 +30,8 @@ O projeto visava a construção de uma fonte de tensão que alterna entre 3V e 1
 
 
 ## Explicação dos componentes 
-
+Na foto 
+### Transformador
 
 
 
@@ -58,7 +59,7 @@ O projeto visava a construção de uma fonte de tensão que alterna entre 3V e 1
 
 ## Nome dos alunos
 
-Arthur Rafael de Souza Jesus \n
-Rayan Fernandes Macarele da Silva \n
-Yann Rodrigues dos Santos
+* Arthur Rafael de Souza Jesus<br>
+* Rayan Fernandes Macarele da Silva<br>
+* Yann Rodrigues dos Santos
 
