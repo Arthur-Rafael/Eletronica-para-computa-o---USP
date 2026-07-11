@@ -145,5 +145,11 @@ Como o próprio nome diz, eles oferecem "resistência" à passagem da corrente e
 São fios condutores elétricos encapados com plástico de proteção nas pontas.
 
 * **Função no projeto:** São as "veias" do circuito. Eles transportam os sinais elétricos e de dados de um ponto a outro — como levar o sinal de comando do pino digital do Arduino até o LED correspondente na protoboard.
-## Explicação do uso dos componentes
+
+## Membros do grupo
+
+Rayan Fernandes Macarele Da Silva
+Arthur Rafael de Souza Jesus
+Yann Rodrigues dos Santos
+
 
