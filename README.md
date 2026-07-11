@@ -58,7 +58,7 @@ O projeto visava a construção de uma fonte de tensão que alterna entre 3V e 1
 
 ## Nome dos alunos
 
-Arthur Rafael de Souza Jesus
-Rayan Fernandes Macarele da Silva
-Yann 
+Arthur Rafael de Souza Jesus \n
+Rayan Fernandes Macarele da Silva \n
+Yann Rodrigues dos Santos
 
