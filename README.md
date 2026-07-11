@@ -148,8 +148,8 @@ São fios condutores elétricos encapados com plástico de proteção nas pontas
 
 ## Membros do grupo
 
-Rayan Fernandes Macarele Da Silva
-Arthur Rafael de Souza Jesus
-Yann Rodrigues dos Santos
+* Rayan Fernandes Macarele Da Silva<br>
+* Arthur Rafael de Souza Jesus<br>
+* Yann Rodrigues dos Santos
 
 
