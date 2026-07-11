@@ -18,7 +18,7 @@ Você pode visualizar e testar a simulação interativa diretamente no Tinkercad
 https://github.com/user-attachments/assets/c43e8320-d0ec-4950-aea0-06bcf43d3724
 
 ## Código do projeto (utilizamos a linguagem C)
-
+```
 // ==========================================
 // DEFINIÇÃO DOS PINOS
 // ==========================================
@@ -102,4 +102,5 @@ void loop() {
   // Pequena pausa para o sensor não bugar com leituras rápidas demais
   delay(100);
 }
+```
 
