@@ -3,7 +3,7 @@ Projeto desenvolvido na disciplina de Eletrônica para computação do professor
 
 ## Descrição 
 
-O projeto visava a construção de uma fonte de tensão que alterna entre 3V e 12V, com uma corrente de no máximo 100mA. Abaixo está a foto da simulação do circuito no falstad e no EAGLE
+O projeto visava a construção de uma fonte de tensão que alterna entre 3V e 12V, com uma corrente de no máximo 100mA. Abaixo está a foto da simulação do circuito no falstad e no EAGLE. O resistor de 1Kohms na esquerda do led representa a carga teste.
 
 ## Falstad
 
@@ -13,6 +13,7 @@ O projeto visava a construção de uma fonte de tensão que alterna entre 3V e 1
 
 ## EAGLE
 
+<img width="1369" height="568" alt="image" src="https://github.com/user-attachments/assets/59a5adc0-00a1-41e3-b707-343ded082ea5" />
 
 
 
